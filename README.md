@@ -1,1 +1,0 @@
-# Detecting-objects-Computer-vision-project-
